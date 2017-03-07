@@ -1,0 +1,51 @@
+<rss xmlns:gismeteo="http://www.gismeteo.ru" version="2.0">
+	<channel>
+		<title>GISMETEO.RU: Погода в России. Точный прогноз погоды (метеопрогноз) на сегодня, завтра, выходные, неделю.</title>
+		<link>http://www.gismeteo.ru</link>
+		<description>Текущая погода и точный прогноз погоды по всему миру</description>
+		<ttl>60</ttl>
+		<image>
+			<title>GISMETEO.RU: Погода в России. Точный прогноз погоды (метеопрогноз) на сегодня, завтра, выходные, неделю.</title>
+			<width>142</width>
+			<height>18</height>
+			<link>http://www.gismeteo.ru</link>
+			<url>http://img.gismeteo.ru/images/gismeteo2.gif</url>
+		</image>
+		<item> 
+			<title>Баку: Ночь 05 Mar, Sun</title>
+			<link>http://www.gismeteo.ru/city/daily/5302/?519503</link> 
+			<description>температура 7..9 С, давление 765..767 мм рт.ст., ветер Северо-Западный, 12 м/с</description> 
+			<category>Погода</category> 
+			<enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" /> 
+			<source url="http://informer.gismeteo.ru/rss/37850.xml">GISMETEO.RU: Погода в г. Баку</source> 
+			<guid>270687</guid> 
+		</item> 
+		<item> 
+			<title>Баку: Утро 05 Mar, Sun</title>
+			<link>http://www.gismeteo.ru/city/daily/5302/?284780</link> 
+			<description>Облачно, температура 8..10 С, давление 769..771 мм рт.ст., ветер Северо-Западный, 12 м/с</description> 
+			<category>Погода</category> 
+			<enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c2.png" length="2000" type="image/gif" /> 
+			<source url="http://informer.gismeteo.ru/rss/37850.xml">GISMETEO.RU: Погода в г. Баку</source> 
+			<guid>120594</guid> 
+		</item> 
+		<item> 
+			<title>Баку: День 05 Mar, Sun</title>
+			<link>http://www.gismeteo.ru/city/daily/5302/?256398</link> 
+			<description>Пасмурно, температура 8..10 С, давление 769..771 мм рт.ст., ветер Северо-Западный, 12 м/с</description> 
+			<category>Погода</category> 
+			<enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c3.png" length="2000" type="image/gif" /> 
+			<source url="http://informer.gismeteo.ru/rss/37850.xml">GISMETEO.RU: Погода в г. Баку</source> 
+			<guid>18092</guid> 
+		</item> 
+		<item> 
+			<title>Баку: Вечер 05 Mar, Sun</title>
+			<link>http://www.gismeteo.ru/city/daily/5302/?516939</link> 
+			<description>температура 5..7 С, давление 772..774 мм рт.ст., ветер Северо-Западный, 8 м/с</description> 
+			<category>Погода</category> 
+			<enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" /> 
+			<source url="http://informer.gismeteo.ru/rss/37850.xml">GISMETEO.RU: Погода в г. Баку</source> 
+			<guid>81938</guid> 
+		</item> 
+	</channel>
+</rss>

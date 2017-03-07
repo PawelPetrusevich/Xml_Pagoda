@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:gismeteo="http://www.gismeteo.ru" version="2.0">
+  <channel>
+    <title>GISMETEO.RU: Погода в России. Точный прогноз погоды (метеопрогноз) на сегодня, завтра, выходные, неделю.</title>
+    <link>http://www.gismeteo.ru</link>
+    <description>Текущая погода и точный прогноз погоды по всему миру</description>
+    <ttl>60</ttl>
+    <image>
+      <title>GISMETEO.RU: Погода в России. Точный прогноз погоды (метеопрогноз) на сегодня, завтра, выходные, неделю.</title>
+      <width>142</width>
+      <height>18</height>
+      <link>http://www.gismeteo.ru</link>
+      <url>http://img.gismeteo.ru/images/gismeteo2.gif</url>
+    </image>
+    <item>
+      <title>Минск: Вечер 15 Jul, Fri</title>
+      <link>http://www.gismeteo.ru/city/daily/4248/?746103</link>
+      <description>температура 16..18 С, давление 741..743 мм рт.ст., ветер Юго-Западный, 4 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/26850.xml">GISMETEO.RU: Погода в г. Минск</source>
+      <guid>646362</guid>
+    </item>
+    <item>
+      <title>Минск: Ночь 16 Jul, Sat</title>
+      <link>http://www.gismeteo.ru/city/daily/4248/?792488</link>
+      <description>температура 13..15 С, давление 743..745 мм рт.ст., ветер Западный, 3 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/26850.xml">GISMETEO.RU: Погода в г. Минск</source>
+      <guid>33022</guid>
+    </item>
+    <item>
+      <title>Минск: Утро 16 Jul, Sat</title>
+      <link>http://www.gismeteo.ru/city/daily/4248/?344100</link>
+      <description>температура 16..18 С, давление 744..746 мм рт.ст., ветер Западный, 3 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/26850.xml">GISMETEO.RU: Погода в г. Минск</source>
+      <guid>779186</guid>
+    </item>
+    <item>
+      <title>Минск: День 16 Jul, Sat</title>
+      <link>http://www.gismeteo.ru/city/daily/4248/?910045</link>
+      <description>Малооблачно, температура 21..23 С, давление 745..747 мм рт.ст., ветер Западный, 3 м/с</description>
+      <category>Погода</category>
+      <enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" />
+      <source url="http://informer.gismeteo.ru/rss/26850.xml">GISMETEO.RU: Погода в г. Минск</source>
+      <guid>71560</guid>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<rss xmlns:gismeteo="http://www.gismeteo.ru" version="2.0">
+	<channel>
+		<title>GISMETEO.RU: Погода в России. Точный прогноз погоды (метеопрогноз) на сегодня, завтра, выходные, неделю.</title>
+		<link>http://www.gismeteo.ru</link>
+		<description>Текущая погода и точный прогноз погоды по всему миру</description>
+		<ttl>60</ttl>
+		<image>
+			<title>GISMETEO.RU: Погода в России. Точный прогноз погоды (метеопрогноз) на сегодня, завтра, выходные, неделю.</title>
+			<width>142</width>
+			<height>18</height>
+			<link>http://www.gismeteo.ru</link>
+			<url>http://img.gismeteo.ru/images/gismeteo2.gif</url>
+		</image>
+		<item> 
+			<title>Киев: Ночь 05 Mar, Sun</title>
+			<link>http://www.gismeteo.ru/city/daily/4944/?269969</link> 
+			<description>температура 3..5 С, давление 745..747 мм рт.ст., ветер Южный, 5 м/с</description> 
+			<category>Погода</category> 
+			<enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" /> 
+			<source url="http://informer.gismeteo.ru/rss/33345.xml">GISMETEO.RU: Погода в г. Киев</source> 
+			<guid>504481</guid> 
+		</item> 
+		<item> 
+			<title>Киев: Утро 05 Mar, Sun</title>
+			<link>http://www.gismeteo.ru/city/daily/4944/?374446</link> 
+			<description>температура 3..5 С, давление 745..747 мм рт.ст., ветер Южный, 6 м/с</description> 
+			<category>Погода</category> 
+			<enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" /> 
+			<source url="http://informer.gismeteo.ru/rss/33345.xml">GISMETEO.RU: Погода в г. Киев</source> 
+			<guid>885127</guid> 
+		</item> 
+		<item> 
+			<title>Киев: День 05 Mar, Sun</title>
+			<link>http://www.gismeteo.ru/city/daily/4944/?481945</link> 
+			<description>температура 12..14 С, давление 745..747 мм рт.ст., ветер Южный, 6 м/с</description> 
+			<category>Погода</category> 
+			<enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" /> 
+			<source url="http://informer.gismeteo.ru/rss/33345.xml">GISMETEO.RU: Погода в г. Киев</source> 
+			<guid>464794</guid> 
+		</item> 
+		<item> 
+			<title>Киев: Вечер 05 Mar, Sun</title>
+			<link>http://www.gismeteo.ru/city/daily/4944/?973555</link> 
+			<description>температура 8..10 С, давление 745..747 мм рт.ст., ветер Южный, 5 м/с</description> 
+			<category>Погода</category> 
+			<enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" /> 
+			<source url="http://informer.gismeteo.ru/rss/33345.xml">GISMETEO.RU: Погода в г. Киев</source> 
+			<guid>908724</guid> 
+		</item> 
+	</channel>
+</rss>

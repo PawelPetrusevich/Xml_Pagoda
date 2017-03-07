@@ -1,0 +1,51 @@
+<rss xmlns:gismeteo="http://www.gismeteo.ru" version="2.0">
+	<channel>
+		<title>GISMETEO.RU: Погода в России. Точный прогноз погоды (метеопрогноз) на сегодня, завтра, выходные, неделю.</title>
+		<link>http://www.gismeteo.ru</link>
+		<description>Текущая погода и точный прогноз погоды по всему миру</description>
+		<ttl>60</ttl>
+		<image>
+			<title>GISMETEO.RU: Погода в России. Точный прогноз погоды (метеопрогноз) на сегодня, завтра, выходные, неделю.</title>
+			<width>142</width>
+			<height>18</height>
+			<link>http://www.gismeteo.ru</link>
+			<url>http://img.gismeteo.ru/images/gismeteo2.gif</url>
+		</image>
+		<item> 
+			<title>Минск: Ночь 05 Mar, Sun</title>
+			<link>http://www.gismeteo.ru/city/daily/4248/?494650</link> 
+			<description>температура 2..4 С, давление 735..737 мм рт.ст., ветер Южный, 4 м/с</description> 
+			<category>Погода</category> 
+			<enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" /> 
+			<source url="http://informer.gismeteo.ru/rss/26850.xml">GISMETEO.RU: Погода в г. Минск</source> 
+			<guid>466824</guid> 
+		</item> 
+		<item> 
+			<title>Минск: Утро 05 Mar, Sun</title>
+			<link>http://www.gismeteo.ru/city/daily/4248/?38021</link> 
+			<description>температура 2..4 С, давление 734..736 мм рт.ст., ветер Южный, 4 м/с</description> 
+			<category>Погода</category> 
+			<enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" /> 
+			<source url="http://informer.gismeteo.ru/rss/26850.xml">GISMETEO.RU: Погода в г. Минск</source> 
+			<guid>502041</guid> 
+		</item> 
+		<item> 
+			<title>Минск: День 05 Mar, Sun</title>
+			<link>http://www.gismeteo.ru/city/daily/4248/?326877</link> 
+			<description>Малооблачно, температура 11..13 С, давление 733..735 мм рт.ст., ветер Южный, 5 м/с</description> 
+			<category>Погода</category> 
+			<enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c1.png" length="2000" type="image/gif" /> 
+			<source url="http://informer.gismeteo.ru/rss/26850.xml">GISMETEO.RU: Погода в г. Минск</source> 
+			<guid>924797</guid> 
+		</item> 
+		<item> 
+			<title>Минск: Вечер 05 Mar, Sun</title>
+			<link>http://www.gismeteo.ru/city/daily/4248/?431883</link> 
+			<description>Пасмурно, температура 9..11 С, давление 734..736 мм рт.ст., ветер Южный, 5 м/с</description> 
+			<category>Погода</category> 
+			<enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c3.png" length="2000" type="image/gif" /> 
+			<source url="http://informer.gismeteo.ru/rss/26850.xml">GISMETEO.RU: Погода в г. Минск</source> 
+			<guid>410723</guid> 
+		</item> 
+	</channel>
+</rss>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cityes>
+  <city>
+    <name>Минск</name>
+    <Id>26850</Id>
+  </city>
+  <city>
+    <name>Киев</name>
+    <Id>33345</Id>
+  </city>
+  <city>
+    <name>Рига</name>
+    <Id>26422</Id>
+  </city>
+  <city>
+    <name>Баку</name>
+    <Id>37850</Id>
+  </city>
+</cityes>

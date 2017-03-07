@@ -1,0 +1,51 @@
+<rss xmlns:gismeteo="http://www.gismeteo.ru" version="2.0">
+	<channel>
+		<title>GISMETEO.RU: Погода в России. Точный прогноз погоды (метеопрогноз) на сегодня, завтра, выходные, неделю.</title>
+		<link>http://www.gismeteo.ru</link>
+		<description>Текущая погода и точный прогноз погоды по всему миру</description>
+		<ttl>60</ttl>
+		<image>
+			<title>GISMETEO.RU: Погода в России. Точный прогноз погоды (метеопрогноз) на сегодня, завтра, выходные, неделю.</title>
+			<width>142</width>
+			<height>18</height>
+			<link>http://www.gismeteo.ru</link>
+			<url>http://img.gismeteo.ru/images/gismeteo2.gif</url>
+		</image>
+		<item> 
+			<title>Рига: Ночь 05 Mar, Sun</title>
+			<link>http://www.gismeteo.ru/city/daily/4136/?995603</link> 
+			<description>Пасмурно, температура 0..2 С, давление 754..756 мм рт.ст., ветер Северо-Восточный, 4 м/с</description> 
+			<category>Погода</category> 
+			<enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c3.png" length="2000" type="image/gif" /> 
+			<source url="http://informer.gismeteo.ru/rss/26422.xml">GISMETEO.RU: Погода в г. Рига</source> 
+			<guid>735605</guid> 
+		</item> 
+		<item> 
+			<title>Рига: Утро 05 Mar, Sun</title>
+			<link>http://www.gismeteo.ru/city/daily/4136/?255861</link> 
+			<description>Пасмурно, температура -1..1 С, давление 754..756 мм рт.ст., ветер Северо-Восточный, 5 м/с</description> 
+			<category>Погода</category> 
+			<enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c3.png" length="2000" type="image/gif" /> 
+			<source url="http://informer.gismeteo.ru/rss/26422.xml">GISMETEO.RU: Погода в г. Рига</source> 
+			<guid>346559</guid> 
+		</item> 
+		<item> 
+			<title>Рига: День 05 Mar, Sun</title>
+			<link>http://www.gismeteo.ru/city/daily/4136/?500831</link> 
+			<description>Пасмурно, температура 0..2 С, давление 754..756 мм рт.ст., ветер Северо-Восточный, 6 м/с</description> 
+			<category>Погода</category> 
+			<enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c3.png" length="2000" type="image/gif" /> 
+			<source url="http://informer.gismeteo.ru/rss/26422.xml">GISMETEO.RU: Погода в г. Рига</source> 
+			<guid>809535</guid> 
+		</item> 
+		<item> 
+			<title>Рига: Вечер 05 Mar, Sun</title>
+			<link>http://www.gismeteo.ru/city/daily/4136/?18449</link> 
+			<description>Пасмурно, температура 0..-2 С, давление 754..756 мм рт.ст., ветер Северо-Восточный, 6 м/с</description> 
+			<category>Погода</category> 
+			<enclosure url="http://img.gismeteo.ru/images/icons/new/d.sun.c3.s2.png" length="2000" type="image/gif" /> 
+			<source url="http://informer.gismeteo.ru/rss/26422.xml">GISMETEO.RU: Погода в г. Рига</source> 
+			<guid>140642</guid> 
+		</item> 
+	</channel>
+</rss>

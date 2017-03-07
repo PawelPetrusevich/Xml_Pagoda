@@ -1,0 +1,12 @@
+c:\users\pst\documents\visual studio 2013\Projects\XML_pagoda\XML_pagoda\bin\Debug\XML_pagoda.exe.config
+c:\users\pst\documents\visual studio 2013\Projects\XML_pagoda\XML_pagoda\bin\Debug\XML_pagoda.exe
+c:\users\pst\documents\visual studio 2013\Projects\XML_pagoda\XML_pagoda\bin\Debug\XML_pagoda.pdb
+c:\users\pst\documents\visual studio 2013\Projects\XML_pagoda\XML_pagoda\obj\Debug\XML_pagoda.exe
+c:\users\pst\documents\visual studio 2013\Projects\XML_pagoda\XML_pagoda\obj\Debug\XML_pagoda.pdb
+c:\users\pst\documents\visual studio 2013\Projects\XML_pagoda\XML_pagoda\obj\Debug\XML_pagoda.csprojResolveAssemblyReference.cache
+C:\Users\шустер\Desktop\1111\XML_pagoda\bin\Debug\XML_pagoda.exe.config
+C:\Users\шустер\Desktop\1111\XML_pagoda\obj\Debug\XML_pagoda.exe
+C:\Users\шустер\Desktop\1111\XML_pagoda\obj\Debug\XML_pagoda.pdb
+C:\Users\шустер\Desktop\1111\XML_pagoda\bin\Debug\XML_pagoda.exe
+C:\Users\шустер\Desktop\1111\XML_pagoda\bin\Debug\XML_pagoda.pdb
+C:\Users\шустер\Desktop\1111\XML_pagoda\obj\Debug\XML_pagoda.csprojResolveAssemblyReference.cache
